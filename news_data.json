@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Singapore’s anti-money laundering regime is sound, says DBS chief Piyush Gupta",
+        "link": "https://www.straitstimes.com/singapore/singapore-s-anti-money-laundering-regime-is-sound-says-dbs-chief",
+        "sentiment": 0.4,
+        "subjectivity": 0.4
+    },
+    {
+        "title": "Le directeur général de DBS déclare que les activités de gestion de patrimoine bénéficient d'un afflux de capitaux",
+        "link": "https://www.zonebourse.com/cours/action/DBS-GROUP-HOLDINGS-LTD-6491408/actualite/Le-directeur-general-de-DBS-declare-que-les-activites-de-gestion-de-patrimoine-beneficient-d-un-affl-44840843/",
+        "sentiment": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "title": "DBS chief says China pessimism not 'overdone' but upbeat about India prospects",
+        "link": "https://www.reuters.com/business/finance/dbs-chief-executive-says-wealth-management-business-benefitting-inflows-2023-09-14/",
+        "sentiment": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "title": "DBS expects net interest margins will decline, sees other growth drivers",
+        "link": "https://www.cnbc.com/2023/05/02/dbs-expects-net-interest-margins-will-decline-sees-other-growth-drivers.html",
+        "sentiment": -0.0625,
+        "subjectivity": 0.1875
+    },
+    {
+        "title": "DBS CEO Piyush Gupta in new book: Don't forget your younger self",
+        "link": "https://sg.news.yahoo.com/dbs-ceo-piyush-gupta-new-book-dont-forget-your-younger-self-033054050.html",
+        "sentiment": 0.06818181818181818,
+        "subjectivity": 0.22727272727272727
+    },
+    {
+        "title": "DBS CEO Piyush Gupta’s 2022 pay rises 13.2% to $15.4 million",
+        "link": "https://www.straitstimes.com/business/dbs-ceo-piyush-gupta-s-2022-pay-rises-13-to-154-million",
+        "sentiment": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "title": "DBS has $1.3 billion exposure to Adani Group but CEO says bank is not concerned",
+        "link": "https://www.straitstimes.com/business/banking/dbs-has-13-billion-exposure-to-adani-group-but-ceo-says-bank-is-not-concerned",
+        "sentiment": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "title": "Shark Tank India: Gear Head Motor rides high, secures funding from Aman Gupta and Peyush Bansal",
+        "link": "https://www.businessinsider.in/business/news/shark-tank-india-gear-head-motor-rides-high-secures-funding-from-aman-gupta-and-peyush-bansal/articleshow/96785906.cms",
+        "sentiment": 0.16,
+        "subjectivity": 0.5399999999999999
+    },
+    {
+        "title": "Piyush Gupta might be banking’s boldest boss",
+        "link": "https://www.reuters.com/breakingviews/piyush-gupta-might-be-bankings-boldest-boss-2022-11-15/",
+        "sentiment": 0.0,
+        "subjectivity": 0.0
+    },
+    {
+        "title": "Wealth darling DBS channels Singapore’s success",
+        "link": "https://www.reuters.com/breakingviews/wealth-darling-dbs-channels-singapores-success-2022-11-03/",
+        "sentiment": 0.3,
+        "subjectivity": 0.0
+    }
+]
